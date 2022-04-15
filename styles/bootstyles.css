@@ -1,0 +1,35 @@
+.header {
+    background-color: rgb(233, 220, 195);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: right;
+    font-size: 25px
+}
+.body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: lighter;
+    background-color: rgb(233, 220, 195);
+}
+.subtitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: italic;
+    background-color: rgb(233, 220, 195);
+}
+.footer {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.background {
+    background-color: rgb(137, 126, 105);
+    margin-right: 0cm;
+    margin-top: 0cm;
+    margin-left: 0cm;
+    margin-bottom: 0cm;
+    padding-right: 1cm;
+    padding-top: 1cm;
+    padding-left: 1cm;
+}
